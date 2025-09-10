@@ -1,0 +1,60 @@
+story_id,epic,title,moscow,points,business_value,time_criticality,risk_reduction,depends_on,cost_of_delay,wsjf,priority_rank,sprint,_ideal,_actual
+US-037,Authentication & Identity,Mobile App Push Notifications,Should,1,12,5,10,US-035,27,27.0,1,Sprint 1,0,0
+US-038,Product Catalog,Multi-language Support,Must Have,1,12,8,4,,24,24.0,3,Sprint 1,0,0
+US-053,Shopping Cart & Checkout,SSL Certificate Management,Could,1,8,10,3,,21,21.0,4,Sprint 1,0,0
+US-016,Authentication & Identity,Implement Two-Factor Authentication,Could,1,12,2,7,,21,21.0,4,Sprint 1,0,0
+US-007,Order Management,A/B Testing Framework,Must Have,1,5,8,4,,17,17.0,5,Sprint 1,0,0
+US-041,Performance & Infrastructure,Social Login Integration,Must Have,1,6,3,7,,16,16.0,6,Sprint 1,0,0
+US-018,Search & Discovery,Promotional Banner System,Must Have,1,6,2,8,US-015,16,16.0,6,Sprint 1,0,0
+US-046,User Account,Subscription Management,Must Have,2,13,10,3,US-043,26,13.0,7,Sprint 1,0,0
+US-025,Authentication & Identity,Tax Calculation Engine,Could,3,12,10,10,,32,10.67,8,Sprint 1,0,0
+US-026,Product Catalog,Accessibility Compliance,Could,2,10,6,3,US-024,19,9.5,9,Sprint 1,0,0
+US-050,Authentication & Identity,Promotional Banner System,Could,2,12,5,2,,19,9.5,9,Sprint 1,0,0
+US-036,Mobile Experience,Analytics Event Tracking,Should,2,5,5,9,,19,9.5,9,Sprint 1,0,0
+US-044,Performance & Infrastructure,SSL Certificate Management,Must Have,2,8,5,6,,19,9.5,9,Sprint 1,0,0
+US-034,User Account,Product Catalog Search by Category,Could,3,9,10,9,,28,9.33,10,Sprint 1,0,0
+US-031,Search & Discovery,Subscription Management,Should,2,9,3,6,,18,9.0,11,Sprint 1,0,0
+US-029,Mobile Experience,Shipping Integration,Must Have,2,9,7,2,US-028,18,9.0,11,Sprint 1,0,0
+US-009,Authentication & Identity,Product Catalog Search by Category,Must Have,2,6,8,4,,18,9.0,11,Sprint 1,0,0
+US-051,Product Catalog,Fraud Detection System,Should,3,11,9,6,,26,8.67,12,Sprint 2,,
+US-055,Authentication & Identity,Multi-language Support,Must Have,3,9,6,10,US-052,25,8.33,13,Sprint 2,,
+US-017,Search & Discovery,API Rate Limiting,Must Have,3,9,7,8,,24,8.0,14,Sprint 2,,
+US-019,Payment Processing,Order History Page,Should,3,12,2,10,,24,8.0,14,Sprint 2,,
+US-059,Shopping Cart & Checkout,Accessibility Compliance,Must Have,2,11,3,1,,15,7.5,15,Sprint 2,,
+US-008,Payment Processing,Security Audit,Should,3,11,5,6,,22,7.33,16,Sprint 2,,
+US-005,Product Catalog,SSL Certificate Management,Should,3,8,7,6,,21,7.0,17,Sprint 2,,
+US-021,Authentication & Identity,Dynamic Pricing Engine,Must Have,3,9,8,4,,21,7.0,17,Sprint 2,,
+US-058,Product Catalog,Product Catalog Search by Category,Should,3,6,5,9,,20,6.67,18,Sprint 2,,
+US-042,Search & Discovery,Mobile App Push Notifications,Should,3,11,5,3,US-041,19,6.33,19,Sprint 2,,
+US-014,Payment Processing,Implement Two-Factor Authentication,Must Have,3,11,4,3,,18,6.0,20,Sprint 3,,
+US-048,Product Catalog,Backup & Disaster Recovery,Should,5,13,6,10,US-045,29,5.8,21,Sprint 3,,
+US-023,Performance & Infrastructure,Implement Two-Factor Authentication,Could,3,6,3,7,US-020,16,5.33,22,Sprint 3,,
+US-012,Admin Dashboard,Fraud Detection System,Could,5,13,5,7,,25,5.0,23,Sprint 3,,
+US-006,User Account,User Profile & Address Book,Must Have,3,12,1,2,,15,5.0,23,Sprint 3,,
+US-024,Shopping Cart & Checkout,Bulk Order Processing,Should,8,13,10,10,US-021,33,4.12,24,Sprint 3,,
+US-057,Performance & Infrastructure,Customer Segmentation,Could,5,9,9,2,,20,4.0,25,Sprint 4,,
+US-010,Search & Discovery,SMS Notifications,Should,2,5,1,2,,8,4.0,25,Sprint 4,,
+US-003,Shopping Cart & Checkout,KYC Verification,Must Have,3,10,1,1,,12,4.0,25,Sprint 4,,
+US-060,User Account,Product Recommendations,Should,5,11,1,8,,20,4.0,25,Sprint 4,,
+US-049,Performance & Infrastructure,Inventory Management System,Should,5,11,6,2,,19,3.8,26,Sprint 4,,
+US-039,Shopping Cart & Checkout,Customer Segmentation,Must Have,3,7,1,3,,11,3.67,27,Sprint 4,,
+US-043,Payment Processing,Fraud Detection System,Could,8,11,7,7,,25,3.12,28,Sprint 5,,
+US-013,Order Management,Performance Monitoring,Could,5,11,2,2,,15,3.0,29,Sprint 5,,
+US-004,Mobile Experience,API Rate Limiting,Must Have,8,8,7,9,,24,3.0,29,Sprint 5,,
+US-035,Search & Discovery,Backup & Disaster Recovery,Should,8,12,5,5,,22,2.75,30,Sprint 5,,
+US-056,Admin Dashboard,Load Testing,Must Have,8,5,6,10,,21,2.62,31,Sprint 6,,
+US-047,Order Management,Payment Gateway Integration,Must Have,8,9,2,10,,21,2.62,31,Future Backlog,,
+US-030,Product Catalog,Database Performance Tuning,Must Have,8,8,6,6,,20,2.5,32,Future Backlog,,
+US-045,Order Management,User Login with Email & Password,Must Have,8,5,5,10,US-044,20,2.5,32,Future Backlog,,
+US-054,Product Catalog,Customer Support Chat,Must Have,8,9,4,5,,18,2.25,33,Future Backlog,,
+US-011,Payment Processing,Admin Dashboard Overview,Should,8,9,2,7,,18,2.25,33,Future Backlog,,
+US-027,Authentication & Identity,Search Cache Layer,Should,8,8,5,3,US-026,16,2.0,34,Future Backlog,,
+US-020,Shopping Cart & Checkout,Admin User Management,Must Have,13,9,6,8,US-019,23,1.77,35,Future Backlog,,
+US-040,Payment Processing,Product Recommendations,Should,13,10,1,10,,21,1.62,36,Future Backlog,,
+US-015,Mobile Experience,Product Image Optimization,Could,13,11,7,3,,21,1.62,36,Future Backlog,,
+US-032,Product Catalog,Promotional Banner System,Should,8,7,1,4,,12,1.5,37,Future Backlog,,
+US-033,Payment Processing,Bulk Order Processing,Should,8,5,2,4,,11,1.38,38,Future Backlog,,
+US-028,Mobile Experience,Subscription Management,Should,13,12,4,1,US-027,17,1.31,39,Future Backlog,,
+US-022,Performance & Infrastructure,Search Cache Layer,Must Have,13,8,2,2,,12,0.92,40,Future Backlog,,
+US-001,Mobile Experience,Promotional Banner System,Could,13,5,2,4,,11,0.85,41,Future Backlog,,
+US-052,Shopping Cart & Checkout,Security Audit,Should,13,6,3,1,,10,0.77,42,Future Backlog,,

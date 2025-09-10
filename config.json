@@ -1,0 +1,16 @@
+{
+  "project_name": "Agile Sprint Tracker",
+  "num_stories": 60,
+  "sprint_capacity": 30,
+  "moscow_weights": {
+    "Must Have": 1.0,
+    "Should Have": 0.8,
+    "Could Have": 0.5,
+    "Won't Have": 0.1
+  },
+  "wsjf_threshold": 50,
+  "sprint_velocity_kpi": {
+    "target": 30,
+    "risk_threshold": 20
+  }
+}
